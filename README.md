@@ -20,12 +20,8 @@
 pip install slack-sdk
 ```
 
-・Python Slack SDK
-
-<https://pypi.org/project/slack-sdk/>
+・Python Slack SDK：<https://pypi.org/project/slack-sdk/>
 
 - スクリプトが必要なスコープを持っていることを確認してください。ファイルのアップロードやメッセージの送信に必要なスコープを適切に設定してください。
 
-・Slack api
-
-<https://slack.dev/python-slack-sdk/>
+・Slack api：<https://slack.dev/python-slack-sdk/>
